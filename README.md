@@ -6,7 +6,7 @@ Geometric patterns on an nokia.
 
 </br></br>
 <img src="snakePathFinder/output/noiseColour/res10veh10-001599.png" width="250"></img>
-<img src="snakePathFinder/output/noiseColour/res10veh10-000245" width="250"></img>
+<img src="snakePathFinder/output/noiseColour/res10veh10-000245.png" width="250"></img>
 <img src="snakePathFinder/output/noiseColour/res10veh10-000217.png" width="250"></img>
 
 </br></br>
