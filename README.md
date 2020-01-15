@@ -1,6 +1,17 @@
 # snakeRoutePlanner
 Geometric patterns on an nokia.
 
+<h1><b>I experimented using perlin noise to give each tile in the field a colour.</b></h1>
+
+
+</br></br>
+<img src="snakePathFinder/output/noiseColour/res10veh10-001599.png" width="250"></img>
+<img src="snakePathFinder/output/noiseColour/res10veh10-000245" width="250"></img>
+<img src="snakePathFinder/output/noiseColour/res10veh10-000217.png" width="250"></img>
+
+</br></br>
+
+<h1><b>Different cell sizes/number of starting lines.</b></h1>
 
 </br></br>
 Resolution: 5
