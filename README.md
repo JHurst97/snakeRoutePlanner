@@ -2,9 +2,9 @@
 Geometric patterns on an nokia.
 </br></br>
 <h1><b>I experimented using perlin noise to give each tile in the field a colour.</b></h1>
-<img src="snakePathFinder/output/noiseColour/res10veh10-001599.png" width="230"></img>
-<img src="snakePathFinder/output/noiseColour/res10veh10-000245.png" width="230"></img>
-<img src="snakePathFinder/output/noiseColour/res10veh10-000217.png" width="230"></img>
+<img src="snakePathFinder/output/noiseColour/res10veh10-001599.png" width="200"></img>
+<img src="snakePathFinder/output/noiseColour/res10veh10-000245.png" width="200"></img>
+<img src="snakePathFinder/output/noiseColour/res10veh10-000217.png" width="200"></img>
 </br></br>
 <h1><b>Different cell sizes/number of starting lines.</b></h1>
 <h3>Resolution: 5
